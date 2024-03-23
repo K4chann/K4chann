@@ -1,6 +1,7 @@
 ### Welcome! 👋
 
 ### 📫 How to reach me: [CALP Discord Server](https://discord.gg/JBQknmBxA9) or [send a message to K4#2381 on Discord](https://discord.com/users/349623600124526602)
+### ⚡ Fun fact: if you are here to copy the exercises at [FP1](https://github.com/K4chann/FP1), [FP2](https://github.com/K4chann/FP2) or [AP](https://github.com/K4chann/AP) without making an effort to learn and understand what you are doing, do not bother asking me if it does not worl 😄! 
 
 <!--
 **K4chann/K4chann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
