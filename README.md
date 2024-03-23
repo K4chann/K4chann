@@ -13,7 +13,7 @@ Some features the bot has are:
 - Possibility of accesing the information of every date related to your studies one by one if need, knowing how many days are left.
 - Possibility to generate a calendar with your wanted and needed dates related to your studies.
 
-#### It will be having a major upgrade this year. More important features will be added!
+#### It will be having a major upgrade this year. More important features will be added! Any help is always welcomed.
 
 <!--
 **K4chann/K4chann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
