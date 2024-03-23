@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### 📫 How to reach me: [CALP Discord Server](https://discord.gg/JBQknmBxA9) or [send a message to K4#2381](https//discord.com/users/349623600124526602)
+### 📫 How to reach me: [CALP Discord Server](https://discord.gg/JBQknmBxA9) or [send a message to K4#2381 on Discord](https://discord.com/users/349623600124526602)
 
 <!--
 **K4chann/K4chann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
